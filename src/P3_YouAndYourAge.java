@@ -5,6 +5,7 @@
 */
 
 import java.util.Scanner;
+
 public class P3_YouAndYourAge {
 
 	public static void main(String[] args) {		
