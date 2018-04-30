@@ -28,6 +28,7 @@ public class P5_StairMaster {
 		}
 		System.out.println();
 		}
+		
 		}
 	}
 }
